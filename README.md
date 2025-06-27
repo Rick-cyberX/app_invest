@@ -1,14 +1,7 @@
-# APP De Calculo de Investimentos Excel $ 
+# Rick Invest$ 
 
 O Aplicativo tem como objetivo calcular investimentos em renda variavel FII.
 Foi baseado no desafio de projeto Excel da DIO com Felipão. 
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 
 ## Funcionalidades
 
@@ -16,4 +9,12 @@ Foi baseado no desafio de projeto Excel da DIO com Felipão.
 - Taxa de Rendimento 
 - Tempo de Investimento
 - Perfil de Investidor Compátivel
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/Rick-cyberX/app_invest/blob/main/imagens/app_invest.png)
+
+
+
 
